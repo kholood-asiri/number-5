@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    margin-bottom: 20px;
+}
+
+.last-action {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.action {
+    border: 2px solid #ccc;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
